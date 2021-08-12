@@ -47,4 +47,4 @@
 ### Thanks To 
 [`@Nurutomo`](https://github.com/Nurutomo)
 [`@BochilGaming`](https://github.com/BochilGaming)
-[`@FranChouG`](https://github.com/FranChouG
+[`@FranChouG`](https://github.com/FranChouG)
