@@ -18,7 +18,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/FranChouG/Frn-Bot
-> cd games-wabot
+> cd Frn-Bot
 > npm install
 ```
 ###### Run
